@@ -1,0 +1,4 @@
+SciCoder
+========
+
+SciCoder Workshop Stuff
